@@ -1,0 +1,8 @@
+D:\HaveFun\根据类生成表结构\根据类生成表结构\bin\Debug\根据类生成表结构.exe.config
+D:\HaveFun\根据类生成表结构\根据类生成表结构\bin\Debug\根据类生成表结构.exe
+D:\HaveFun\根据类生成表结构\根据类生成表结构\bin\Debug\根据类生成表结构.pdb
+D:\HaveFun\根据类生成表结构\根据类生成表结构\obj\x86\Debug\根据类生成表结构.Form1.resources
+D:\HaveFun\根据类生成表结构\根据类生成表结构\obj\x86\Debug\根据类生成表结构.Properties.Resources.resources
+D:\HaveFun\根据类生成表结构\根据类生成表结构\obj\x86\Debug\根据类生成表结构.csproj.GenerateResource.Cache
+D:\HaveFun\根据类生成表结构\根据类生成表结构\obj\x86\Debug\根据类生成表结构.exe
+D:\HaveFun\根据类生成表结构\根据类生成表结构\obj\x86\Debug\根据类生成表结构.pdb
